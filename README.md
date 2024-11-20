@@ -1,10 +1,21 @@
 # 📚 Data Structures and Algorithms
 
 Welcome to the **Data Structures and Algorithms** repository!  
+
 This repository serves as a quick introduction to essential data structures and algorithms, designed with a focus on **data scientists** and **machine learning engineers** looking to strengthen their foundational skills.
 
 ## 🚀 Project Status
 **Progress:** Building... Stay tuned for updates!
+
+## 📋 Content
+
+### 🔢 Algorithms
+
+1. **Binary Search**  
+
+2. **Selection Sort**  
+
+3. **Quick Sort**  
 
 ## ☕ Support the Project
 
